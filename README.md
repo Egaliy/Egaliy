@@ -4,7 +4,7 @@
 I design, code and ship the whole thing myself.
 
 Eight years, 500+ projects, 50+ awards — for Yandex, MTS Bank and Art. Lebedev Studio.
-Now at [Ubernatural](https://ubernatural.io/), where I also run the product side of [onfly](https://onfly.design/): a website designed and launched in a single day.
+Now at [Ubernatural](https://ubernatural.io/), where I also run the product side of [onfly](https://onfly.design/): immersive websites in days, not months.
 
 [egor.digital](https://egor.digital) · [LinkedIn](https://www.linkedin.com/in/galiy) · [Telegram](https://t.me/egaliy) · [egor@egor.digital](mailto:egor@egor.digital)
 
@@ -27,9 +27,9 @@ Now at [Ubernatural](https://ubernatural.io/), where I also run the product side
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://fading-worlds.com"><img src="assets/fading-worlds.jpg" alt="Fading Worlds"></a>
-      <b><a href="https://fading-worlds.com">Fading Worlds</a></b><br>
-      Award-level concept site, built solo.
+      <a href="https://onfly.design"><img src="assets/onfly.jpg" alt="onfly"></a>
+      <b><a href="https://onfly.design">onfly</a></b><br>
+      Immersive websites in days, not months. I built it end to end: brand, sites, automated briefs, CRM routing and an AI sales agent.
     </td>
     <td width="50%" valign="top">
       <a href="https://fly-lab-lovat.vercel.app"><img src="assets/fly-lab.jpg" alt="Fly Lab"></a>
