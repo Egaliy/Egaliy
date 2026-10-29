@@ -15,12 +15,12 @@ Now at [Ubernatural](https://ubernatural.io/), where I also run the product side
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://100yearsmonet.com"><img src="assets/monet-100.jpg" alt="100 Years Without Monet"></a>
+      <a href="https://100yearsmonet.com"><img src="assets/monet-100.gif" alt="100 Years Without Monet"></a>
       <b><a href="https://100yearsmonet.com">Monet 100</a></b><br>
       An immersive WebGL tribute to Claude Monet: a walk through his garden and paintings, 100 years on.
     </td>
     <td width="50%" valign="top">
-      <a href="https://akai-ito-kappa.vercel.app"><img src="assets/akai-ito.jpg" alt="Akai Ito"></a>
+      <a href="https://akai-ito-kappa.vercel.app"><img src="assets/akai-ito.gif" alt="Akai Ito"></a>
       <b><a href="https://akai-ito-kappa.vercel.app">Akai Ito</a></b><br>
       Concept for an AI dating product: your digital twin goes on millions of first dates, you go on one.
     </td>
