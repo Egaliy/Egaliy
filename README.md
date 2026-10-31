@@ -74,6 +74,6 @@ Real players, one shared Telegram login, achievements and leaderboards.
 
 **Awards:** Awwwards Honorable Mention ×3 · Made on Tilda ×18 · Best CSS ×16 · TopDesignKing ×12
 
-**Code:** JavaScript · TypeScript · React · Next.js · Three.js / WebGL / GLSL · GSAP · Node · Express · Python · Postgres / Prisma · Playwright · Vite · Vercel · Cloudflare
-**AI:** Claude API · Claude Code · MCP (Framer, Figma, Higgsfield) · agents on Telegram, Notion, Read.ai, Float and Stripe · Kling · Seedance · Nano Banana · GPT Image · CLIP
+**Code:** JavaScript · TypeScript · React · Next.js · Three.js / WebGL / GLSL · GSAP · Node · Express · Python · Postgres / Prisma · Playwright · Vite · Vercel · Cloudflare<br>
+**AI:** Claude API · Claude Code · MCP (Framer, Figma, Higgsfield) · agents on Telegram, Notion, Read.ai, Float and Stripe · Kling · Seedance · Nano Banana · GPT Image · CLIP<br>
 **Design:** Figma · Framer · Blender · art direction · interaction design · 3D
