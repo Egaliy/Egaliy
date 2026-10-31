@@ -3,7 +3,7 @@
 **Design engineer — WebGL, 3D and interactive web.**
 I design, code and ship the whole thing myself.
 
-Eight years, 500+ projects, 50+ awards — for Yandex, MTS Bank and Art. Lebedev Studio.
+8 years, 500+ projects, 50+ awards — for Yandex, MTS Bank and Art. Lebedev Studio.
 Now at [Ubernatural](https://ubernatural.io/), where I also run the product side of [onfly](https://onfly.design/): immersive websites in days, not months.
 
 [egor.digital](https://egor.digital) · [LinkedIn](https://www.linkedin.com/in/galiy) · [Telegram](https://t.me/egaliy) · [egor@egor.digital](mailto:egor@egor.digital)
@@ -74,4 +74,6 @@ Real players, one shared Telegram login, achievements and leaderboards.
 
 **Awards:** Awwwards Honorable Mention ×3 · Made on Tilda ×18 · Best CSS ×16 · TopDesignKing ×12
 
-**Tools:** JavaScript · Three.js / WebGL · Blender · Vite · Node · Vercel · Cloudflare · Figma · Claude Code
+**Code:** JavaScript · TypeScript · React · Next.js · Three.js / WebGL / GLSL · GSAP · Node · Express · Python · Postgres / Prisma · Playwright · Vite · Vercel · Cloudflare
+**AI:** Claude API · Claude Code · MCP (Framer, Figma, Higgsfield) · agents on Telegram, Notion, Read.ai, Float and Stripe · Kling · Seedance · Nano Banana · GPT Image · CLIP
+**Design:** Figma · Framer · Blender · art direction · interaction design · 3D
