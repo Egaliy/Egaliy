@@ -12,6 +12,10 @@ Now at [Ubernatural](https://ubernatural.io/), where I also run the product side
 
 ### Selected work
 
+<a href="https://uberdesigner.ai/teams/"><img src="assets/uberdesigner-teams.gif" alt="uberdesigner for teams"></a>
+<b><a href="https://uberdesigner.ai/teams/">uberdesigner for teams</a></b><br>
+A landing page that opens as a Figma file: a generic AI-made hero gets redesigned live by a team of cursors, then turns into the real site. Every visitor's cursor is live on the page, because the product is about designers and AI working together.
+
 <table>
   <tr>
     <td width="50%" valign="top">
