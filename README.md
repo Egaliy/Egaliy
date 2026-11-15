@@ -16,6 +16,10 @@ Now at [Ubernatural](https://ubernatural.io/), where I also run the product side
 <b><a href="https://uberdesigner.ai/teams/">uberdesigner for teams</a></b><br>
 A landing page that opens as a Figma file: a generic AI-made hero gets redesigned live by a team of cursors, then turns into the real site. Every visitor's cursor is live on the page, because the product is about designers and AI working together.
 
+<a href="https://plural.tools/"><img src="assets/plural.gif" alt="Plural"></a>
+<b><a href="https://plural.tools/">Plural</a></b><br>
+Six AI specialists in one chat, told as a scroll-driven 3D story: a live product window that never stops working, a ring of characters you spin by scrolling, and a finale crew you can grab and throw. Three.js, Lighthouse 100 on mobile and desktop.
+
 <table>
   <tr>
     <td width="50%" valign="top">
