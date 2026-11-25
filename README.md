@@ -3,7 +3,7 @@
 **Design engineer — WebGL, 3D and interactive web.**
 I design, code and ship the whole thing myself.
 
-8 years, 500+ projects, 50+ awards — for Yandex, MTS Bank and Art. Lebedev Studio.
+
 Now at [Ubernatural](https://ubernatural.io/), where I also run the product side of [onfly](https://onfly.design/): immersive websites in days, not months.
 
 [egor.digital](https://egor.digital) · [LinkedIn](https://www.linkedin.com/in/galiy) · [Telegram](https://t.me/egaliy) · [egor@egor.digital](mailto:egor@egor.digital)
