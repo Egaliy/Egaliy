@@ -75,12 +75,11 @@ Real players, one shared Telegram login, achievements and leaderboards.
 
 | | |
 |---|---|
-| **Ubernatural + onfly** · 2025–now | Design engineer & product owner of onfly. ~50 one-day launches, three Awwwards Honorable Mentions. |
-| **Art. Lebedev Studio** · 2025 | Web designer. |
+| **Ubernatural + onfly** · 2025–now | Design engineer & product owner of onfly. ~50 one-day launches, an Awwwards Site of the Day and three Honorable Mentions. |
 | **Yandex Eats** · 2023 | Lead web designer for the whole food division, 14 languages. |
-| **MTS Bank** · 2022 | Senior web designer & developer, special projects. 54 landing pages in a year, 20+ awards, six browser games. |
+| **MTS Bank** · 2022 | Senior web designer & developer, special projects. |
 
-**Awards:** Awwwards Honorable Mention ×3 · Made on Tilda ×18 · Best CSS ×16 · TopDesignKing ×12
+**Awards:** Awwwards Site of the Day (Monet 100) · Awwwards Honorable Mention ×3 · Made on Tilda ×18 · Best CSS ×16 · TopDesignKing ×12
 
 **Code:** JavaScript · TypeScript · React · Next.js · Three.js / WebGL / GLSL · GSAP · Node · Express · Python · Postgres / Prisma · Playwright · Vite · Vercel · Cloudflare<br>
 **AI:** Claude API · Claude Code · MCP (Framer, Figma, Higgsfield) · agents on Telegram, Notion, Read.ai, Float and Stripe · Kling · Seedance · Nano Banana · GPT Image · CLIP<br>
